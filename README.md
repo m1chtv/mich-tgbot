@@ -19,7 +19,7 @@ This Python script automates the process of posting a proxy with a custom captio
 - Set the `CHANNEL_ID` to the Telegram channel where the message should be sent.
 - Update the `PHOTO_PATH` with the path to the image you want to send.
 
-##Usage:
+## Usage:
 Run the script using:
 ```bash
 python mich.py
